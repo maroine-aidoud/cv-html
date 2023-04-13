@@ -1,0 +1,62 @@
+
+body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #0b0171;
+        color: #fff;
+        text-align: center ;
+        padding: 20px;
+    }
+
+    aside {
+        background-color: #0066ff ;
+        color: #333;
+        padding: 20px;
+        float: left; 
+        width: 25%;
+    }
+
+    aside h3 {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    aside p {
+        font-size: 16px;
+        margin: 0;
+        line-height: 1.5;
+    }
+
+    aside img {
+        display: block;
+        margin: 0 auto 20px;
+        max-width: 70%;
+    }
+
+    article {
+        background-color: #fff;
+        color: #333;
+        overflow: hidden;
+    }
+
+    article h2 {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+
+    article p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    strong, b {
+        font-weight: bold;
+    }
+
+    i {
+        font-style: italic;
+    }
